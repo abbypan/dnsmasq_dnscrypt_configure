@@ -33,7 +33,7 @@ configure file example : /etc/...
 # plan_b 
 
     weibo.cn
-    <--plain--> dnsmaq(127.0.0.x:53)
+    <--plain--> dnsmaq(127.0.0.1:53)
     <--plain--> local_open_resolver(202.106.46.151)
 
     www.google.com
